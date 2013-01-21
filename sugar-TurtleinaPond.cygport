@@ -1,0 +1,8 @@
+NAME="sugar-TurtleinaPond"
+VERSION=7
+RELEASE=1
+inherit sugar
+
+
+SRC_URI="http://download.sugarlabs.org/sources/honey/TurtlePond/TurtleinaPond-${VERSION}.tar.bz2"
+SRC_DIR="TurtleinaPond-${VERSION}"
